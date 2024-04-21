@@ -1,0 +1,460 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+    /*=================================
+        sidebar widget
+================================= */
+    .popular-posts ul li a .popular-post-thumd {
+        height: 70px;
+    }
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /*=================================
+        Help CSS
+    ================================= */
+    .section-title h2 {
+        font-size: 24px;
+    }
+
+    .section-line {
+        top: 27px;
+    }
+
+    /*=================================
+            Header Top
+    ================================= */
+    .top-info ul li a {
+        margin-right: 5px;
+    }
+
+    /*=================================
+        Header Area
+    ================================= */
+
+    .header-area {
+        background-color: #fff;
+
+    }
+
+    /*=================================
+            Hero Area
+    ================================= */
+
+    .hero-content h1 {
+        font-size: 50px;
+    }
+
+    /*=================================
+            Pricing Area
+    ================================= */
+    .single-pricing {
+        max-width: 360px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    /*=================================
+        sidebar widget
+        ================================= */
+    .sidebar-widget:first-child {
+        margin-top: 30px;
+    }
+
+    /*=================================
+             Footer Area
+    ================================= */
+    .footer-widget {
+        margin-bottom: 30px;
+    }
+
+    .footer-form form button {
+        height: 58px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+
+
+
+    /*=================================
+        Help CSS
+    ================================= */
+
+    .section-padding {
+        padding: 80px 0;
+    }
+
+    .section-title h2 {
+        font-size: 24px;
+    }
+
+    .section-line {
+        top: 27px;
+    }
+
+    /*=================================
+        Breadcrumb area
+    ================================= */
+    .banner-title h2 {
+        font-size: 24px;
+    }
+
+    /*=================================
+            Header Top
+    ================================= */
+    .header-top {
+        height: auto;
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .header-top-right.text-right {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+
+    .top-info ul li a {
+        margin-right: 5px;
+    }
+
+    /*=================================
+        Header Area
+    ================================= */
+
+    .header-area {
+        background-color: #fff;
+
+    }
+
+    /*=================================
+            Hero Area
+    ================================= */
+
+    .portfolio-details .image-slider .owl-nav,
+    .hero-slider .owl-nav {
+        display: none;
+    }
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .hero-content p {
+        margin: 15px 0;
+    }
+
+    .hero-content .bttn-md {
+        margin-bottom: 30px;
+    }
+
+    .hero-content a {
+        padding: 10px 30px;
+    }
+
+    /*=================================
+            Request a call back 
+    ================================= */
+    .call-back-area .call-back-user-image {
+        height: 450px;
+        margin-bottom: 30px;
+    }
+
+    .call-back-content {
+        padding-left: 0;
+    }
+
+
+    /*=================================
+             About Area 
+    ================================= */
+    .about-area .call-back-user-image {
+        height: 450px;
+        margin-top: 30px;
+    }
+
+    /*=================================
+                 Service Area 
+        ================================= */
+
+
+    .services-details-img {
+        height: 240px;
+    }
+
+    /*=================================
+        Call to Action
+        ================================= */
+    .inner-promo h2 {
+        font-size: 24px;
+    }
+
+    /*=================================
+        Portfolio Area
+    ================================= */
+
+    .portfolio-filter ul li {
+        margin: 5px;
+    }
+
+    .portfolio-content {
+        width: 230px;
+    }
+
+    .portfolio-content h3 {
+        font-size: 18px;
+    }
+
+    /*=================================
+            Pricing Area
+    ================================= */
+    .single-pricing {
+        max-width: 360px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    /*=================================
+        Blog Area
+    ================================= */
+
+    .blog-details .blog-thumb,
+    .single-blog.col-1-blog .blog-thumb {
+        height: 240px;
+    }
+
+    .comment-replay {
+        padding: 3px 7px;
+    }
+
+
+    .single-comment + .single-comment {
+        margin-left: 15px;
+    }
+
+    .single-comment .author-thumb {
+        float: none;
+    }
+
+    .author-comments {
+        padding-left: 0;
+    }
+
+    p.comment-date {
+        margin-top: 0;
+    }
+
+    /*=================================
+        Contact Area
+    ================================= */
+
+    .contact-form {
+        padding: 60px 15px;
+    }
+
+
+
+    /*=================================
+        sidebar widget
+        ================================= */
+    .sidebar-widget:first-child {
+        margin-top: 30px;
+    }
+
+    /*=================================
+             Footer Area
+    ================================= */
+    .footer-widget {
+        margin-bottom: 30px;
+    }
+
+    .footer-form form button {
+        height: 58px;
+    }
+
+
+    .copyright,
+    .copyright .footer-copyright-nav {
+        text-align: center !important;
+    }
+
+    .copyright .copyright-text {
+        margin-bottom: 30px;
+    }
+
+    .footer-copyright-nav ul li a {
+        margin: 0 15px;
+    }
+
+}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+    /*=================================
+        Help CSS
+    ================================= */
+    .section-title h2 {
+        font-size: 24px;
+    }
+
+    .section-line {
+        top: 27px;
+    }
+
+    /*=================================
+            Header Top
+    ================================= */
+    .header-top {
+        height: auto;
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .header-top-right.text-right {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+
+    .top-info ul li a {
+        margin-right: 5px;
+    }
+
+    /*=================================
+        Header Area
+    ================================= */
+
+    .header-area {
+        background-color: #fff;
+
+    }
+
+    /*=================================
+            Hero Area
+    ================================= */
+
+    .portfolio-details .image-slider .owl-nav,
+    .hero-slider .owl-nav {
+        display: none;
+    }
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .hero-content .bttn-md {
+        margin-bottom: 30px;
+    }
+
+    /*=================================
+            Request a call back 
+    ================================= */
+    .call-back-area .call-back-user-image {
+        height: 450px;
+        margin-bottom: 30px;
+    }
+
+    .call-back-content {
+        padding-left: 0;
+    }
+
+
+    /*=================================
+             About Area 
+    ================================= */
+    .about-area .call-back-user-image {
+        height: 450px;
+        margin-top: 30px;
+    }
+
+        /*=================================
+        Portfolio Area
+    ================================= */
+
+    .portfolio-filter ul li {
+        margin: 5px;
+    }
+
+    .portfolio-content {
+        width: 230px;
+    }
+
+    .portfolio-content h3 {
+        font-size: 18px;
+    }
+
+
+    /*=================================
+                 Service Area 
+     ================================= */
+
+
+    .services-details-img {
+        height: 240px;
+    }
+
+    /*=================================
+            Pricing Area
+    ================================= */
+    .single-pricing {
+        max-width: 360px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    /*=================================
+        Blog Area
+    ================================= */
+
+    .blog-details .blog-thumb,
+    .single-blog.col-1-blog .blog-thumb {
+        height: 240px;
+    }
+
+    .comment-replay {
+        padding: 3px 7px;
+    }
+
+    /*=================================
+        sidebar widget
+     ================================= */
+    .sidebar-widget:first-child {
+        margin-top: 30px;
+    }
+
+    /*=================================
+             Footer Area
+    ================================= */
+    .footer-widget {
+        margin-bottom: 30px;
+    }
+
+    .footer-form form button {
+        height: 58px;
+    }
+
+
+    .copyright,
+    .copyright .footer-copyright-nav {
+        text-align: center !important;
+    }
+
+    .copyright .copyright-text {
+        margin-bottom: 30px;
+    }
+
+    .footer-copyright-nav ul li a {
+        margin: 0 15px;
+    }
+
+}
